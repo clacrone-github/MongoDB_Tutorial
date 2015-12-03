@@ -1,3 +1,6 @@
+JAVA DOCUMENTATION:
+https://api.mongodb.org/java/current/
+
 INSTALL MONGODB:
 (found at https://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/)
 1. brew install mongodb
